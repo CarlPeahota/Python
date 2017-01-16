@@ -114,8 +114,10 @@ def Read_Funct(strFileAndPathIn,listType):
 os.system('cls')
 #strFileListPath = input("What is the full path of the File_List text file? ")
 print("Please be sure that the file named File_List.txt is in C:\Python\PythonProjects\DFM Files\Definitions directory...")
+print("")
 #strObjTypePath = input("...and what is the full path of the Array Object Type text file ?")
 print("and be sure that the file named Array_Object_Types.txt is there, too.")
+print("")
 input("Press Enter to continue...")
 
 os.system('cls')
